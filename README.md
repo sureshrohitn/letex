@@ -348,12 +348,4 @@ E = mc^2
 
 ---
 
-### **BONUS MATERIALS**
-
-* Templates for Thesis, CV, Journal Article
-* Quick Reference Cheat Sheet
-* Online Communities: TeX StackExchange, Overleaf Gallery
-
----
-
 **Conclusion** By now, you’ve gained a foundational mastery of LaTeX. Continue using it in academic work and build on these basics for custom class files, complex layouts, or journal submissions.
