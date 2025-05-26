@@ -4,19 +4,16 @@
 
 ### **INTRODUCTION**
 
-**What is LaTeX?** LaTeX is a document preparation system that uses plain text to define structure, formatting, and content. It is particularly suited for producing scientific and technical documents where precise layout and mathematical equations are essential.
+**What is LaTeX?** 
+LaTeX is a document preparation system that uses plain text to define structure, formatting, and content. It is particularly suited for producing scientific and technical documents where precise layout and mathematical equations are essential.
 
-**Why Use LaTeX Over Word?** Unlike Word processors that rely on visual formatting, LaTeX separates content from style. This results in:
+**Why Use LaTeX Over Word?** 
+Unlike Word processors that rely on visual formatting, LaTeX separates content from style. This results in:
 
 * Better control over document structure
 * Consistent formatting
 * Superior handling of references, equations, and large documents
 
-**Target Audience** This book is aimed at:
-
-* Graduate and PhD students preparing theses or dissertations
-* Academic researchers writing journal articles
-* Faculty members preparing teaching or research materials
 
 **Tools Required**
 
